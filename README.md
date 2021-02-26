@@ -57,6 +57,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
+### State Management (Recoil)
+
+This section has moved here: [https://recoiljs.org/](https://recoiljs.org/)
+
+### API Management (React Query)
+
+This section has moved here: [https://react-query.tanstack.com/](https://react-query.tanstack.com/)
+
+### Form Management (Formik)
+
+This section has moved here: [https://formik.org/](https://formik.org/)
+
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
